@@ -1,4 +1,4 @@
-A high-speed, 1000mm tall Delta 3D printer featuring a 3030 aluminum frame, HGR15 linear rails, and an integrated enclosure for technical material printing.
+A high-speed, 1000mm tall Delta 3D printer featuring a 3030 aluminum frame, HGR15 linear rails, and hopefully high speed printing.
 
 ## Technical Specifications
 Frame: 30x30mm Aluminum Extrusion (1000mm height, 400mm base).
