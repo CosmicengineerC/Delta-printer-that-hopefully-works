@@ -5,7 +5,7 @@ Frame: 30x30mm Aluminum Extrusion (1000mm height, 400mm base).
 
 Motion: Delta geometry, 40T pulleys, HGR15 rails (750mm), and Carbon Fiber rods.
 
-Electronics: Undecided based of budget
+Electronics:BIGTREETECH Octopus V1.1 Control Board for Voron 2.4 + Old laptop Idk what
 
 Power: 24V 300W PSU 
 
